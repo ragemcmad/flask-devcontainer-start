@@ -1,0 +1,15 @@
+{
+    "build": {
+        "dockerfile": "python-env"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "wholroyd.jinja",
+                "VisualStudioExptTeam.vscodeintellicode",
+                "KevinRose.vsc-python-indent",
+                "ms-python.python"
+            ]
+        }
+    }
+}
